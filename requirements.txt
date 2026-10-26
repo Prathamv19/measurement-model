@@ -1,0 +1,8 @@
+mediapipe
+numpy
+pillow
+fastapi
+uvicorn
+python-multipart
+streamlit
+pandas
